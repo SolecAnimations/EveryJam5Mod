@@ -1,10 +1,10 @@
 {
   "$schema": "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json",
-  "filename": "ModJam5All.dll",
-  "author": "a bunch of people",
-  "name": "Every Jam 5 Mod",
+  "filename": "PleaseDontUseThis.dll",
+  "author": "WAY too many people",
+  "name": "Way Too Many Jam 5 Mods (please don't use this)",
   "uniqueName": "Solec.ModJam5All",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "owmlVersion": "2.13.0",
   "dependencies": [
     "APOLLO.939sPlanetdotSTRUCTURE",
